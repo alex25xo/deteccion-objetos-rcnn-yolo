@@ -1,0 +1,14 @@
+{
+  "modelo": "Faster R-CNN R50-FPN",
+  "backend": "onnx",
+  "imagenes": 1,
+  "latencia_media_ms": 1138.5,
+  "latencia_mediana_ms": 1138.5,
+  "latencia_p95_ms": 1138.5,
+  "fps": 0.88,
+  "objetos_detectados_por_clase": {
+    "person": 12,
+    "dog": 1,
+    "backpack": 1
+  }
+}

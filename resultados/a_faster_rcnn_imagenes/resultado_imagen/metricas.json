@@ -1,0 +1,18 @@
+{
+  "modelo": "Faster R-CNN R50-FPN",
+  "backend": "onnx",
+  "imagenes": 1,
+  "latencia_media_ms": 1132.5,
+  "latencia_mediana_ms": 1132.5,
+  "latencia_p95_ms": 1132.5,
+  "fps": 0.88,
+  "objetos_detectados_por_clase": {
+    "vase": 3,
+    "bowl": 2,
+    "dog": 2,
+    "person": 1,
+    "bottle": 1,
+    "dining table": 1,
+    "cell phone": 1
+  }
+}
