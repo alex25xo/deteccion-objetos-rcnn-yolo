@@ -1,0 +1,9 @@
+imagen,tiempo_ms,n_detecciones,conf_media,clases
+images (1).jpg,75.27,22,0.518,"bus, car, person"
+images (2).jpg,108.69,4,0.7,person
+images (3).jpg,68.31,12,0.519,"book, cup, keyboard, laptop, potted plant, vase"
+images (4).jpg,78.44,10,0.449,"bowl, carrot, chair, cup, dining table, wine glass"
+images (5).jpg,92.24,16,0.603,"bicycle, car, person, truck"
+images (6).jpg,58.75,2,0.902,"dog, potted plant"
+images (7).jpg,83.5,1,0.808,person
+images.jpg,166.8,2,0.65,cat
